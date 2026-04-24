@@ -17,8 +17,8 @@
 
 ## Third-party
 
-- `STRIPE_LIVE_KEY=[REDACTED]`
-- `OPENAI_API_KEY_PROD=[REDACTED]`
+- `LIVE_KEY=live_51HxxxxxxxxxxxxxxxxxxxxxxEXAMPLE`
+- `OPENAI_API_KEY_PROD=sk-proj-xxxxxxxxxxxxxxxxxxxxEXAMPLE`
 
 ## Paging
 
